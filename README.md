@@ -1,16 +1,17 @@
-## Hi there 👋
+# Nicolas Pavlovič
 
-<!--
-**solarluminea/solarluminea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open source contributor focused on developer tooling and documentation.
 
-Here are some ideas to get you started:
+## Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[kubernetes/website](https://github.com/kubernetes/website)** — German localization of production environment docs ([#55877](https://github.com/kubernetes/website/pull/55877))
+
+## Projects
+
+- **[luminea.sk](https://luminea.sk)** — Solar energy solutions
+
+## Focus areas
+
+- Kubernetes & cloud-native infrastructure
+- Documentation & localization
+- Developer experience
